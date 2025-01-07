@@ -25,4 +25,4 @@ and it will filter the previous two charts to reflect the parameter chosen.
 With all of that said, this dashboard can be used to find different, such as how many male customers have a family of two; 
 what is the monthly income level of females? Or how many males, with a family size of one, have a monthly income of at least $10,000?
 
-If you're interested in viewing this dashboard on Tableau public, go to this link: [Click Here]((https://public.tableau.com/views/TripleTen_Final_Project/ZomatoCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+If you're interested in viewing this dashboard on Tableau public, go to this link: [Click Here](https://public.tableau.com/views/TripleTen_Final_Project/ZomatoCustomers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
