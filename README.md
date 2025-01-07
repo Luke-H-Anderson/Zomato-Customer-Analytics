@@ -7,6 +7,8 @@ The specific characteristics I decided to focus on where the gender demographics
 # Dashboard
 The dashboard is very interactive and consists of four charts.
 
+![Zomato Customer Dashboard](https://github.com/Luke-H-Anderson/Zomato-Customer-Analytics/blob/main/ZomatoCustomers_Image.png)
+
 The first if a bar graph of the number of orders over the four years in which the data was collected.
 
 The second, another bar graph showing the different family sizes and how many orders customers of those
